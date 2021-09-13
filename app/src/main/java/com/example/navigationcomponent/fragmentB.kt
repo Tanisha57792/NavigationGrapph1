@@ -37,7 +37,7 @@ class fragmentB : Fragment() {
             }
             else
             {
-                Toast.makeText(activity,"Please Enter Message ",Toast.LENGTH_LONG).show()
+                Toast.makeText(activity,"Please Enter Your Message ",Toast.LENGTH_LONG).show()
 
             }
         }
